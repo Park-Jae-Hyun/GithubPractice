@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText editText;
     private EditText editText2;
+    private EditText editText3;
 
 
     @Override
